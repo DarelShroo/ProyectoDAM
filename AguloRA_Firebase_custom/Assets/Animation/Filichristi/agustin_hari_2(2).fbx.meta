@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 765a3ad87de6d18409a23a1fc7004349
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5419156617756729702
+    second: Armature|Armature.001|Armature|Armature|Armature|Armature|Armature|A
+  - first:
+      74: -5078343545778478133
+    second: Armature|Armature.001|Armature|Armature|Armature|Armature|Armature|A.001
+  - first:
+      74: -4342787079608641868
+    second: Armature|Armature.001|Armature|Armature|Armature|Armature|Armature|Armat
+  - first:
+      74: -5964696389003507037
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Armat
+  - first:
+      74: 5774167747913995962
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Armat.001
+  - first:
+      74: 445819222690364645
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Armature|
+  - first:
+      74: 8520807046878404950
+    second: Armature.001|Armature.001|Armature|Armature|Armature|Armature|Armature|A
+  - first:
+      74: 1204024673920160638
+    second: Armature.001|Armature.001|Armature|Armature|Armature|Armature|Armature|A.001
+  - first:
+      74: -407996846511649669
+    second: Armature.001|Armature.001|Armature|Armature|Armature|Armature|Armature|Armat
+  - first:
+      74: -4698697538541794833
+    second: Armature.001|Armature|Armature|Armature|Armature|Armature|Armature|Armat
+  - first:
+      74: 4087908930395079607
+    second: Armature.001|Armature|Armature|Armature|Armature|Armature|Armature|Armat.001
+  - first:
+      74: -7074094441988228246
+    second: Armature.001|Armature|Armature|Armature|Armature|Armature|Armature|Armature|
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Medieval_Monk_Body_skin1_Base_Color
+    second: {fileID: 2800000, guid: b601aa9d3580483478ba89f141a425ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Medieval_Monk_Cape_1_skin1_Base_Color
+    second: {fileID: 2800000, guid: 004cca749521df7469b150cfdc0fcf64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Medieval_Monk_Cross_skin1_Base_Color
+    second: {fileID: 2800000, guid: 522c6a5e59c96844a851f019852d5b33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Medieval_Monk_Hair_skin1_Base_Color
+    second: {fileID: 2800000, guid: 335f0874d9024994aba05d480ce8791b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Medieval_Monk_Mantle_skin1_Base_Color
+    second: {fileID: 2800000, guid: b1d1d158456405044b9c87d368fb65e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Medieval_Monk_Sandals_skin1_Base_Color
+    second: {fileID: 2800000, guid: 52b06e197975e9b47bb2f7b046ada6c5, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Armature|
+      takeName: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Armature|
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 255
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
